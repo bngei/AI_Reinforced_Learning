@@ -1,6 +1,6 @@
 # AI_Reinforced_Learning
 
-This repository contains modules and classes to simulate reinforcement learning agents in an environment. The code comprises multiple Python files that interact to simulate agents' actions and learning processes.
+This AI project involves coordinating two agents to transport blocks from pickup to dropoff cells. It explores two reinforcement learning approaches: individual strategies for each agent considering the other's position and a joint strategy moving both agents together. Strategies employ policies like random, exploit, and greedy actions, aiming to optimize block transportation while addressing constraints like alternate moves and blockage avoidance.
 
 ## Key Modules:
 ### ActionModule.py:
